@@ -1,1 +1,2 @@
-A new file for comparision
+A new file for comparision in Git bash.
+This file was created on 05-03-2025
